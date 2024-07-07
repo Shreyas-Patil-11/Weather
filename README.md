@@ -1,6 +1,4 @@
 # Weather
-Here's a description for your GitHub repository:
-
 ---
 
 ## Weather App
@@ -47,10 +45,4 @@ This Weather App allows users to get current weather information and hourly fore
 
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
-### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this description according to your specific needs and preferences.
