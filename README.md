@@ -27,7 +27,7 @@ This Weather App allows users to get current weather information and hourly fore
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/weather-app.git
+   git clone (https://github.com/Shreyas-Patil-11/Weather.git)
    ```
 2. Navigate to the project directory:
    ```sh
